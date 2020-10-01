@@ -1,4 +1,4 @@
-# Intro to Web Development
+# Intro to Web Development technologies
 
 This repository contains instructional materials and exercises for an introductory business school course in web technologies and applications, called "Internet Business Technologies".
 
@@ -30,11 +30,11 @@ Client-side Applications (JavaScript):
 Server-side Applications (Python):
 
   9. [Web Scrapers](/exercises/web-scraper/exercise.md)
-  10. [API Clients (Python Implementation)](/exercises/api-client-py/exercise.md)
+  10. [API Clients (Python Implementations)](/exercises/api-client-py/exercise.md)
   11. [Web Applications](/exercises/web-app-py/exercise.md) and APIs
 
 Review:
 
-  12.  [Group "Freestyle" Project](/projects/freestyle/project.md)
+  12.  [Group "Freestyle" Projecst](/projects/freestyle/project.md)
 
 ## [License](/LICENSE)
